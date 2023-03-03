@@ -1,0 +1,10 @@
+{
+    "client_id": "p4TC2lgzOUS-km8Z7HkGIQ",
+    "client_secret": "Ie32PLi70yJdtZ0Tawqr12uSe2DAXQ",
+    "user_agent": "user-agent",
+    "subreddits": ["oneliners"],
+    "karma_threshold": 350,
+    "num_workers": 1,
+    "subreddit_posts_limit": 1
+}
+

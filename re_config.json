@@ -1,0 +1,12 @@
+{
+    "house_price": 450000,
+    "monthly_rental_income": 2300,
+    "property_tax_rate_percentage": 2,
+    "mortgage_interest_rate": 6,
+    "home_appreciation_rate": 4,
+    "down_payment_percentage": 20,
+    "misc_monthly_expenses": 150,
+    "total_time_years": 5,
+    "mortgage_term_years": 30,
+    "extra_misc_expenses": 10000
+}

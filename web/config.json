@@ -1,0 +1,8 @@
+{
+    "root_urls": ["https://en.wikipedia.org/wiki/ChatGPT"],
+    "karma_threshold": 350,
+    "crawl_depth": 2,
+    "num_workers": 1,
+    "max_urls": 25
+}
+
